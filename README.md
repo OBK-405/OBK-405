@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @OBK-405
-- 👀 I’m interested in machine learning algorithms. 
-- 🌱 I’m currently learning C.
-- 💞️ I’m looking to collaborate on Powershell projects. 
-- 📫 http://linkedin.com/in/obk405
+
